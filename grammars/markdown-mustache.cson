@@ -1,0 +1,33 @@
+'scopeName': 'source.gfm.mustache'
+'name': 'Markdown (Mustache)'
+'fileTypes': [
+  'markdown'
+  'md'
+  'mdown'
+  'mdwn'
+  'mkd'
+  'mkdn'
+  'mkdown'
+  'rmd'
+  'pmd'
+  'p.md'
+  'ron'
+  'workbook'
+  'handlebars'
+  'hbs'
+  'hjs'
+  'mst'
+  'mu'
+  'mustache'
+  'rac'
+  'ractive'
+  'stache'
+]
+'patterns': [
+  {
+    'include': 'text.html.mustache#mustache'
+  }
+  {
+    'include': 'source.gfm'
+  }
+]

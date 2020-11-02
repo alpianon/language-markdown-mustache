@@ -1,0 +1,18 @@
+{
+  "name": "language-markdown-mustache",
+  "version": "0.1.1",
+  "description": "Highlight markdown+mustache syntax both in markdown and in mustache files",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/alpianon/language-markdown-mustache",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpianon/language-markdown-mustache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alpianon/language-markdown-mustache/issues"
+  }
+}
