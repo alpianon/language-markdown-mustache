@@ -1,3 +1,3 @@
 # language markdown + mustache
 
-Highlight markdown+mustache syntax both in markdown and in mustache files
+Highlight markdown+mustache syntax for `*.md.mustache` files
