@@ -1,6 +1,6 @@
 {
   "name": "language-markdown-mustache",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Highlight markdown+mustache syntax for `*.md.mustache` files",
   "license": "MIT",
   "engines": {
